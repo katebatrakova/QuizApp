@@ -1,6 +1,9 @@
+## Project Description
+
+An app that lets you create quizzes and share them between friends. The creator of the quiz can view and share all the results at the end of the quiz. The project was created by the group of 3 people.
+
 LHL Node Skeleton
 =========
-
 ## Project Setup
 
 The following steps are only for _one_ of the group members to perform.
